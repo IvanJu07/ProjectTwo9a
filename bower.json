@@ -1,0 +1,21 @@
+{
+  "name": "ProjectTwo9a",
+  "homepage": "https://github.com/IvanJu07/ProjectTwo9a",
+  "description": "My second Bootstrap Project",
+  "main": "index.html",
+  "authors": [
+    "Iván Juárez Aguilar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
